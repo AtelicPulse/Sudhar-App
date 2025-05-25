@@ -8,6 +8,8 @@ Driver side app allows user to see the task assigned to them , the optimized rou
 4.	Incentive System: ‘Swachh Points’ linked to tax benefits.
 
 
+
+
 Abstract:  
 In order to solve the problem of waste dumped openly on ground/street and overflowing bins, we proposed a robust closed loop waste management system that ensure the waste dumped on any area getting cleaned within 4 to 8 hours after reporting it.  
 Here is the abstract of this idea, the system will have citizen for reporting illegal waste dumping thought an App (Sudhaar) after uploading this image this image will be validated by AI and after that if it is a genuine image i.e if it contains waste then credits will be credited to the citizen who reported that waste area in form of Swatchh Points (gamified incentives to create engagement). 
